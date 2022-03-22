@@ -1,2 +1,2 @@
 # Shark_tank_India_analyses_excel
-Basically ,it is a very basic project in which data of all the pitches has been collected from wikipedia and kaggle and after that with the help of data wrangling data has been cleaned , then using some excel formulae analyses has been done .
+Basically ,it is a very basic project in which data of all the pitches has been collected from wikipedia and kaggle and after that with the help of data wrangling data has been cleaned , then using some excel formulae analyses has been done .Later on with the help of pivot table analyses has been done for non-tech people to uderstand the analyses , then at the very end using graphs visualisation has been done .
